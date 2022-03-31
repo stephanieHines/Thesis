@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Citation."
+authors:
+- family-names: "Hines"
+  given-names: "Stephanie"
+title: "Thesis"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-03-31
+url: "https://github.com/stephanieHines/Thesis"
